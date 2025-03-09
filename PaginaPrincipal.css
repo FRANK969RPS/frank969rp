@@ -1,0 +1,13 @@
+.contenedor{
+	width:100%;
+	max-width:1000px;
+	margin:0 auto;
+	overflow:hidden;
+}
+.main{
+	width:100%;
+	padding:20px;
+	background:#fff;
+	float:center;
+	box-sizing:border-box;
+}
